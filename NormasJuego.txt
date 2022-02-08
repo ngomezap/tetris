@@ -1,1 +1,2 @@
-Debes 
+Debes utilizar las flechas izq, dre para desplazar el bloque.
+Debes utilizar la flecha sup, para cambiar la forma.
